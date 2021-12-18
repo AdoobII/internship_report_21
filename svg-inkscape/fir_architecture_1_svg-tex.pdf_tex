@@ -1,0 +1,204 @@
+%% Creator: Inkscape inkscape 0.92.3, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'fir_architecture_1_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{699.75bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,2.18971061)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.30117899,2.07717042){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.47266881,2.07717042){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.64415863,2.07717042){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.81564845,2.07717042){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.38263666,1.99356913){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C1\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.55412647,1.99356913){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C2\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.72561629,1.99356913){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C3\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.89710611,1.99356913){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C4\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.21114684,1.99356913){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C0\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.09753483,2.07717042){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}x[n]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.09753483,1.86280815){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}y[n]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.21543408,1.86280815){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.3869239,1.86280815){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.55841372,1.86280815){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.72990354,1.86280815){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.14040729,2.15219721){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Direct form FIR filter\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.39335477,1.56484459){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C1\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.56484459,1.56484459){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C2\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.73633441,1.56484459){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C3\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.90782422,1.56484459){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C4\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.22186495,1.56484459){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C0\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.10825295,1.4340836){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}y[n]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.2261522,1.4340836){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.39764202,1.4340836){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.56913183,1.4340836){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.74062165,1.4340836){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.31189711,1.4340836){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.48338692,1.4340836){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.65487674,1.4340836){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.82636656,1.4340836){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=31]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.10825295,1.61629153){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}x[n]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=32]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.14576635,1.69131833){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Transposed FIR filter\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=33]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.22186495,1.01822079){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C0\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=34]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.10825295,0.7266881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}y[n]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=35]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.2261522,0.7266881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=36]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.39764202,0.7266881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=37]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.56913183,0.7266881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=38]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.74062165,0.7266881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=39]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.31189711,0.7266881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=40]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.48338692,0.7266881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=41]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.65487674,0.7266881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=42]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.82636656,0.7266881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=43]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.10825295,1.1982851){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}x[n]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=44]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.23687031,1.2733119){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Pipelined Transposed FIR filter\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=45]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.2261522,0.86602358){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=46]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.2261522,1.11254019){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=47]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.39335477,1.01822079){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C1\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=48]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.39764202,0.86602358){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=49]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.39764202,1.11254019){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=50]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.56484459,1.01822079){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C2\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=51]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.56913183,0.86602358){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=52]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.56913183,1.11254019){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=53]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.73633441,1.01822079){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C3\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=54]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.74062165,0.86602358){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=55]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.74062165,1.11254019){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=56]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.90782422,1.01822079){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C4\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=57]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.91211147,0.86602358){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=58]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.91211147,1.11254019){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=59]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.26366559,0.34083601){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}x[n]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=60]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.47802787,0.34083601){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=61]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.70310825,0.34083601){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=62]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.70310825,0.46945338){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=63]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.47802787,0.46945338){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}R3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=64]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.37084673,0.2550911){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=65]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.59592712,0.2550911){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=66]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.36655949,0.18220793){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C0\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=67]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.59163987,0.18220793){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C1\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=68]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.78456592,0.18220793){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C2\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=69]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.37084673,0.06216506){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=70]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.59592712,0.06216506){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=71]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.78885316,0.06216506){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}+\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=72]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.26366559,0.06216506){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}y[n]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=73]{fir_architecture_1_svg-tex.pdf}}%
+    \put(0.27974277,0.55519829){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Folded Direct FIR filter\end{tabular}}}}%
+    \put(0.50053591,0.00482315){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Viewer does not support full SVG 1.1\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

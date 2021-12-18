@@ -1,0 +1,87 @@
+%%%%%%%%%%%%%%%%%%%
+%  placeholders
+%%%%%%%%%%%%%%%%%%%
+
+% chair name not allowed at Department of Informatics
+% remove \phantom{} if you want the chair name on the cover
+\newcommand{\chair}{{Lehrstuhl f\"ur Integrierte Systeme}}
+\newcommand{\faculty}{Fakult\"at f\"ur Elektrotechnik und Informationstechnik}
+\newcommand{\uni}{Technische Universit\"at M\"unchen}
+\newcommand{\studycourse}{Digital systems and FPGA engineering}
+
+\newcommand{\authorname}{Mohammed Adib Obaid}
+\newcommand{\city}{Munich}
+
+\newcommand{\worktype}{Internship in \studycourse}
+\newcommand{\titleFirstLanguage}{Implementation of an FIR Filter on FPGA for Laser Line Extraction from Pixel Data}
+% German & English needed at Department of Informatics
+\newcommand{\titleForeignLanguage}{}
+
+\newcommand{\supervisor}{Arne Kreddig}
+\newcommand{\advisor}{Arne Kreddig}
+
+% set date manually or use \today
+\newcommand{\submissionDate}{\today}
+
+
+
+%%%%%%%%%%%%%%%%%%%
+%    settings
+%%%%%%%%%%%%%%%%%%%
+
+% quick settings
+\def\printstyle{twoside} % set to {twoside} for printing, else {oneside}
+%\def\monochromeCover{} % uncomment if you prefer a black TUM logo on the cover
+% \def\monochromeCoverInside{} % uncomment if you prefer a black TUM logo on the inside cover page
+
+% complete settings & packages: see settings.text
+\input{settings} 
+
+
+
+%%%%%%%%%%%%%%%%%%%
+%  main document
+%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\frontmatter
+% first part of document before actual content
+
+\include{titlepage}
+% \include{titlepage_inside} % needed at Department of Informatics
+
+% \include{content/EidesstattlicheErklaerung}
+\include{content/Abstract}
+% \include{content/Acknowledgements}
+
+\tableofcontents
+
+
+\mainmatter
+% include chapter files here or write your text directly here
+
+\include{content/chapter_1}
+\lstset{language=Python}
+\include{content/chapter_2}
+\include{content/chapter_3}
+
+
+\backmatter
+% optional: list of figures
+\listoffigures
+% optional: list of tables
+% \listoftables
+% % optional: list of source code listings
+% \lstlistoflistings
+
+% your BibTex file
+\bibliography{bib/references.bib}
+
+
+\appendix
+% include appendix chapters here
+
+\include{content/AppendixA}
+
+\end{document}
