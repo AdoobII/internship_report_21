@@ -3,12 +3,12 @@
 \section{3D Laser Line Scanners}
 
 
-3D laser line scanners work on the principle of laser triangulation and use a camera chip in the receive path. The setup shown in Figure \ref{fig:laser_line_setup} consists of a camera sensor with an angle $\alpha$ from the vertical line, and a laser line source directed on top of the object. When the laser is cast onto the object, the laser line would be captured by the camera sensor.
+3D laser line scanners work on the principle of laser triangulation and use a camera chip in the receive path. The setup shown in Figure \ref{fig:laser_line_setup} consists of a camera sensor with an angle $\alpha$ from the vertical line, and a laser line source directed on top of the object. When the laser is cast onto the object, the laser line is captured by the camera sensor.
 
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.8\textwidth]{laser_line_setup_upscaled.png}
+    \includegraphics[width=0.8\textwidth]{laser_line_setup_upscaled_nn.jpg}
     \caption{3D laser line scanning setup \cite{method_presentation}}
     \label{fig:laser_line_setup}
 \end{figure}
@@ -61,7 +61,7 @@ Figure \ref{fig:diff_flow} shows how the gaussian distribution curve would look 
 \end{figure}
 
 
-The processing system is composed of 2 main parts: The filters and the zero-crossing detector. The filtering part of the system has two jobs: it needs to smooth out the data and to differentiate the gaussian curve. While the zero-crossing part of the system will detect a positive to negative going zero-crossing position, this would mark the position of the laser line in the received pixel column.
+The processing system is composed of two main parts: The filters and the zero-crossing detector. The filtering part of the system has two jobs: it needs to smooth out the data and to differentiate the gaussian curve. While the zero-crossing part of the system will detect a positive to negative going zero-crossing position, this would mark the position of the laser line in the received pixel column.
 
 
 
@@ -81,7 +81,7 @@ The filter sizes were chosen to limit the resource usage in the final design, as
 \end{figure}
 
 
-The differentiation filter is a 5-tap first order Savitzky–Golay filter. Figure \ref{fig:data_through_filters} shows how the data would look like after passing both filters, as shown in the 3rd sub-plot there is a zero-crossing at the point of maximum intensity shown in the 1st and 2nd subplots.
+The differentiation filter is a 5-tap first order Savitzky–Golay filter. Figure \ref{fig:data_through_filters} shows how the data looks like after passing both filters, as shown in the third sub-plot there is a zero-crossing at the point of maximum intensity shown in the first and second subplots.
 
 \begin{figure}[h]
     \centering

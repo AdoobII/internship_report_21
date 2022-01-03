@@ -107,9 +107,9 @@ As shown in Figure \ref{fig:fir_filter_hdl_specs}, the filter coefficients, filt
 
 \subsection{Zero crossing module}
 
-The zero-crossing algorithm is fairly simple and straight-forward to implement, since the implementation of the algorithm depends on the module finding the maximum and minimum values in the pixel column then a peak-detector module was written in VHDL. The peak-detector clocks out the index of the peak value whether it was a maximum or a minimum peak.
+The zero-crossing algorithm is fairly simple and straight-forward to implement, since the implementation of the algorithm depends on the module finding the maximum and minimum values in the pixel column. Therefore, a peak-detector module was written in VHDL. The peak-detector clocks out the index of the peak value whether it was a maximum or a minimum peak.
 
-After the indicies of both peaks has been acquired another module ensures that the index of the maximum value is less than the index of the minimum value, because we are looking for a positive to negative going zero crossing. The module ensures that by clocking out both indicies if the values are correct, otherwise it clocks out zeros.
+After the indicies of both peaks has been acquired, another module ensures that the index of the maximum value is less than the index of the minimum value, because we are looking for a positive to negative going zero crossing. The module ensures that by clocking out both indicies if the values are correct, otherwise it clocks out zeros.
 
 Finally, the zero crossing index is calculated according to \eqref{zero_index_eq}. The zero index is then clocked out of the module. Figure \ref{fig:zero_crossing_final} shows the structure of the zero-crossing module. The abundant registers are there for delay matching.
 
@@ -150,7 +150,7 @@ The last part of the 3 major system modules is the input controller. The input c
 \end{table}
 
 
-The input controller is basically a state machine with the enable and reset signals of the system modules as its outputs. Figure \ref{fig:input_controller_hdl_specs} shows the specifications of the input controller. The module also have generics that control the timings of the output pins, the enable outputs go logic '0' when the module is flushed out of useful data.
+The input controller is basically a state machine with the enable and reset signals of the system modules as its outputs. Figure \ref{fig:input_controller_hdl_specs} shows the specifications of the input controller. The module also has generics that control the timings of the output pins, the enable outputs go logic '0' when the module is flushed out of useful data.
 
 
 \begin{figure}[h]
